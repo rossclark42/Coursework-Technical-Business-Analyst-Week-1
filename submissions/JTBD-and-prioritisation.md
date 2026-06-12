@@ -12,12 +12,12 @@ The following table groups all stakeholder evidence collected during Phase 1 dis
 
 |Theme                    |Description                                                                                                                            |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|**Duplicate Work**       |Agents re-doing work that a single system of record would make redundant — structural, not behavioural                                 |
-|**Missed Follow-Up**     |Recoverable accounts falling out of the funnel due to absent system prompting and unreliable handovers                                 |
-|**Poor Visibility**      |No single real-time view of account status, activity history, or operational performance across the portfolio                          |
-|**Customer Friction**    |Customers unable to self-serve, repeating their situation across multiple channels, and unprotected if vulnerable                      |
-|**Financial Credibility**|Key financial figures are unaudited estimates or low-confidence projections requiring triangulation and sensitivity testing            |
-|**Change Resistance**    |Agent scepticism, historical change fatigue, and pride in workarounds that could block adoption even if the portal is technically sound|
+|Duplicate Work           |Agents re-doing work that a single system of record would make redundant — structural, not behavioural                                 |
+|Missed Follow-Up         |Recoverable accounts falling out of the funnel due to absent system prompting and unreliable handovers                                 |
+|Poor Visibility          |No single real-time view of account status, activity history, or operational performance across the portfolio                          |
+|Customer Friction.       |Customers unable to self-serve, repeating their situation across multiple channels, and unprotected if vulnerable                      |
+|Financial Credibility    |Key financial figures are unaudited estimates or low-confidence projections requiring triangulation and sensitivity testing            |
+|Change Resistance        |Agent scepticism, historical change fatigue, and pride in workarounds that could block adoption even if the portal is technically sound|
 
 # Stakeholder Evidence Table
 
@@ -458,8 +458,7 @@ Each JTBD statement is ranked High / Medium / Low across three dimensions:
 
 > No statements were ranked Low. Every identified job has meaningful business impact.
 > The distinction between High and Medium is driven primarily by portal relevance
-> — Medium jobs are real needs but either require infrastructure beyond Phase 1 scope
-> or depend on Phase 2 technical work to address properly.
+> Medium jobs are real needs but either require infrastructure beyond Phase 1 scope or depend on Phase 2 technical work to address properly.
 
 
 # Top 3 Unmet Jobs — Detailed Justification
